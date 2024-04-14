@@ -8,6 +8,7 @@ a;
 let a;
 
 // 2 Assing a value 
+// a=4;
 
 // Perform an evaluation that return a single value
 // b +c 
